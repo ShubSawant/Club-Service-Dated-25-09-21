@@ -1,0 +1,12 @@
+Club-WLUG (club service)
+Team-Shubham Sawant,palak Shravagi,Siddhi Hagawane
+Date of CS-25/09/21,6 PM
+Topics covered-
+1.BOM
+2.Async and sync JS
+3.Callback
+4.Callback hell
+5.Promises
+6.Async and await
+7.Event loop
+
